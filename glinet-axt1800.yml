@@ -38,6 +38,7 @@ packages:
   - luci-app-argon-config
   - luci-app-ddnsto
   - luci-app-passwall
+  - luci-app-openclash
   - openssh-sftp-server
   - luci-compat
 diffconfig: |
